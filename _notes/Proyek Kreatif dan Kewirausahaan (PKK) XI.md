@@ -1,3 +1,7 @@
+---
+title: Proyek Kreatif dan Kewirausahaan (PKK)
+---
+
 Laman dokumentasi mata pelajaran Projek Kreatif dan Kewirausahaan untuk kelas XI Kompetensi Keahlian Elektronika Industri.
 
 ## 📘 Materi
